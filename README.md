@@ -1,6 +1,6 @@
 # Personal Site Template
 
-This is a template for your own personal site including a portfolio, blog, and résumé. It is based on the fantastic [middleman-zurb-template](https://github.com/mattolson/middleman-zurb-template) project.
+This is a template for your own personal site including a portfolio, blog, and résumé.
 
 ## Installation
 
@@ -9,7 +9,7 @@ This is a template for your own personal site including a portfolio, blog, and r
 Go ahead and grab a copy of the code for the site and install the bundle:
 
 ```console
-git clone https://github.com/makersquare/personal-site-template.git username.github.io
+git clone https://github.com/pranavpunjabi/pranavpunjabi.github.io.git username.github.io
 cd username.github.io
 bundle install
 ```
