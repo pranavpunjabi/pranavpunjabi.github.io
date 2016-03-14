@@ -21,7 +21,7 @@ activate :sprockets
 
 set :full_name, "Ada Lovelace"
 set :city, "London, England"
-set :resume, "resume" # Set to filename of resume PDF in source directory.
+set :resume, "resume.pdf" # Set to filename of resume PDF in source directory.
 set :google_analytics_tracking_id, "UA-111111111-11"
 
 ###
